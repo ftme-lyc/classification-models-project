@@ -1,0 +1,7 @@
+pandas
+altair
+numpy
+seaborn
+matplotlib
+scikit-learn
+utstd
